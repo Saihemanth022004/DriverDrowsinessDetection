@@ -63,7 +63,7 @@ DriverDrowsinessDetection/
 ```
 ## Screenshots
 
-![drowsy driver](<Screenshot 2025-05-11 085923.png>)
+![drowsy driver](screenshot.png)
 ---
 
 ## 🎯 How It Works
