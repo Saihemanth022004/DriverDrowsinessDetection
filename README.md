@@ -59,10 +59,11 @@ DriverDrowsinessDetection/
 ├── alarm.wav
 ├── drowsiness detection.py
 ├── model.py
-├── image.jpg
 └── README.md
 ```
+## Screenshots
 
+![drowsy driver](<Screenshot 2025-05-11 085923.png>)
 ---
 
 ## 🎯 How It Works
@@ -77,12 +78,6 @@ DriverDrowsinessDetection/
 - CNN model (`models/cnnCat2.h5`) is trained on an eye dataset.
 - Input: Eye image
 - Output: Open (0) or Closed (1)
-
----
-
-## 📸 Example Screenshot
-
-![Example](image.jpg)
 
 ---
 
